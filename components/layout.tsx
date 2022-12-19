@@ -1,10 +1,10 @@
-import Header from "./header";
+import Sidebar from "./sidebar";
 import Footer from "./footer";
 
 const layout = ({ children }: any) => {
   return (
     <>
-      <Header />
+      <Sidebar />
       <main>{children}</main>
       <Footer />
     </>

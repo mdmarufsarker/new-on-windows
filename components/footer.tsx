@@ -3,7 +3,7 @@ const { Footer } = Layout
 
 const footer = () => {
   return (
-    <Footer style={{ textAlign: 'center' }}>New On Windows ©2018 Created by Md. Maruf Sarker</Footer>
+    <Footer style={{ textAlign: 'center' }}>New On Windows ©2023 Created by Md. Maruf Sarker</Footer>
   )
 }
 
